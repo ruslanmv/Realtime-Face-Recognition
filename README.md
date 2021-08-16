@@ -99,7 +99,7 @@ File restart
 
 ```
 #loading the image to detect
-image_test= cv2.imread('images/testing/trump-modi.jpg')
+image_test= cv2.imread('images/testing/people.jpg')
 
 #showing the current image with title
 cv2.imshow("Image",image_test)
